@@ -1,5 +1,5 @@
 # hippocratic-license
-An ethical open source license alternative created by [Coraline Ada Ehmke](https://where.coraline.codes/).
+An ethical open source license alternative.
 
 ## Project Home Page
 
@@ -10,7 +10,7 @@ For an overview and usage instructions, please visit [firstdonoharm.dev](https:/
 Please feel free to submit pull requests or open issues to improve the language
 of this document.
 
-You should also check the [issues](https://github.com/ContributorCovenant/hippocratic-license/issues)
+You should also check the [issues](https://github.com/Ivajkin/hippocratic-license/issues)
 for the latest discussions involving the current and future versions of the license.
 
 To build the website locally, first [install Hugo](https://gohugo.io/getting-started/installing)
